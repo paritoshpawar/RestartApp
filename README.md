@@ -14,7 +14,12 @@ SwiftUI app with drag animation.
 - Image rotationEffect with angle and unit points
 
 
+
 Home Screen UI: 
+
 ![alt text](https://github.com/paritoshpawar/RestartApp/blob/main/RestartAppOnboardingScreen.png)
 
 
+Onboarding Screen UI:
+
+![alt text](https://github.com/paritoshpawar/RestartApp/blob/main/RestartAppHomeScreen.png)
