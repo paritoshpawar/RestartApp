@@ -12,3 +12,9 @@ SwiftUI app with drag animation.
 - easeOut animation with blur effect
 - easeInOut with repeatForever option
 - Image rotationEffect with angle and unit points
+
+
+Home Screen UI: 
+https://github.com/paritoshpawar/RestartApp/issues/1
+
+
