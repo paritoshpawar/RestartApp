@@ -1,6 +1,6 @@
 # RestartApp
 
-SwiftUI app with drag animation. 
+**Restart is SwiftUI app with latest drag gesture animation. **
 
 **UI concepts covered:**
 - Old iphone drag to unlock feature implemented with SwiftUI gestures. 
