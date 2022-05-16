@@ -15,6 +15,6 @@ SwiftUI app with drag animation.
 
 
 Home Screen UI: 
-https://github.com/paritoshpawar/RestartApp/issues/1
+![alt text](https://github.com/paritoshpawar/RestartApp/blob/main/RestartAppOnboardingScreen.png)
 
 
